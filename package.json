@@ -2,9 +2,9 @@
     "name": "mongodb",
     "types": ["pack"],
     "version": "1.4",
-    "homepage": "https://github.com/shinken-monitoring/pack-mongodb",
+    "homepage": "https://github.com/dmsimard/pack-mongodb-auth",
     "author": "Jean Gabes",
-    "description": "MongoDB database checks, like connected users, locks or data size",
+    "description": "Authenticated MongoDB database checks, like connected users, locks or data size",
     "contributors": [
     {
         "name": "Jean Gabes",
@@ -13,9 +13,13 @@
     {
         "name": "Imrane Dessai",
         "email": "dessai.imrane@gmail.com"
-    }
+    },
+    {
+        "name": "David Moreau Simard",
+        "email": "moi@dmsimard.com"
+		}
     ],
-    "repository": "https://github.com/shinken-monitoring/pack-mongodb",
+    "repository": "https://github.com/dmsimard/pack-mongodb-auth",
     "keywords": [
         "pack",
         "mongo",
