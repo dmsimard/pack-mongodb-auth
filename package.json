@@ -1,5 +1,5 @@
 {
-    "name": "mongodb",
+    "name": "mongodb-auth",
     "types": ["pack"],
     "version": "1.4",
     "homepage": "https://github.com/dmsimard/pack-mongodb-auth",
